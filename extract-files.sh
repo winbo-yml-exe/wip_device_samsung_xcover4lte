@@ -4,7 +4,7 @@
 
 set -e
 
-DEVICE=universal7570-common
+DEVICE=xcover4lte
 VENDOR=samsung
 
 # Load extractutils and do some sanity checks
