@@ -1,0 +1,24 @@
+//
+// Copyright (C) 2025 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+// Init scripts
+sh_binary {
+    name: "mx_log_collection.sh",
+    src: "bin/mx_log_collection.sh",
+    vendor: true,
+}
+
+sh_binary {
+    name: "mx_logger.sh",
+    src: "bin/mx_logger.sh",
+    vendor: true,
+}
+
+sh_binary {
+    name: "mx_logger_dump.sh",
+    src: "bin/mx_logger_dump.sh",
+    vendor: true,
+}
