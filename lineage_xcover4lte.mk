@@ -22,6 +22,6 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="xcover4ltexx-user 9 PPR1.180610.011 G390FXXS6CTI2 release-keys"
+    PRIVATE_BUILD_DESC="xcover4ltexx-user 8.1.0 M1AJQ G390FXXU4BSB3 release-keys"
 
-BUILD_FINGERPRINT := samsung/xcover4ltexx/xcover4lte:9/PPR1.180610.011/G390FXXS6CTI2:user/release-keys
+BUILD_FINGERPRINT := samsung/xcover4ltexx/xcover4lte:8.1.0/M1AJQ/G390FXXU4BSB3:user/release-keys
