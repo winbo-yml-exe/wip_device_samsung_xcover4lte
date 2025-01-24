@@ -14,7 +14,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, device/samsung/xcover4lte/device.mk)
 
 PRODUCT_DEVICE := xcover4lte
-PRODUCT_NAME := lineage_xcover4lte
+PRODUCT_NAME := cm_xcover4lte
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G390F
 PRODUCT_MANUFACTURER := samsung

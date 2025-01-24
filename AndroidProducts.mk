@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_xcover4lte.mk
+    $(LOCAL_DIR)/cm_xcover4lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_xcover4lte-user \
-    lineage_xcover4lte-userdebug \
-    lineage_xcover4lte-eng
+    cm_xcover4lte-user \
+    cm_xcover4lte-userdebug \
+    cm_xcover4lte-eng
